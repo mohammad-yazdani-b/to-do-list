@@ -46,7 +46,7 @@ body {
 }
 .ToDoList .ulList .liList .listTitle {
   color: inherit;
-  font-size: 18px;
+  font-size: 22px;
 }
 .ToDoList .ulList .liList .icon {
   float: right;
