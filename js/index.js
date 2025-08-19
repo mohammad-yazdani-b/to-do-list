@@ -1,7 +1,6 @@
 let $ = document;
 let ulElem = $.querySelector(".ulList");
 let inputElem = $.querySelector("#newItem");
-let deleteElem = $.querySelector(".icon");
 
 function addNewToDo(newToDoValue) {
   let newLi = $.createElement("li");
